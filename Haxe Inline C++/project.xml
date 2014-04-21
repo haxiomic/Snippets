@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+	
+	<meta title="Inline C++" package="com.haxiomic.inlinecpp" version="1.0.0" company="Haxiomic" />
+	<app main="Main" path="Export" file="Main" />
+
+	<window width="600" height="400" background="0x000000" fps="60" vsync="false" />
+	<window orientation="landscape" />
+	
+	<source path="Source" />
+
+	<haxelib name="lime" />
+</project>
